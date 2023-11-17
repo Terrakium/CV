@@ -124,7 +124,7 @@ export default function Home() {
             </p>
           </div>
           <div>
-            <h3 className="font-semibold text-lg">Databases</h3>
+            <h3 className="font-semibold text-lg">Bases de données</h3>
             <p className="text-gray-600">MySQL, PostgreSQL, (MongoDB)</p>
           </div>
         </div>
