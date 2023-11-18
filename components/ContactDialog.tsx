@@ -37,9 +37,6 @@ export default function ContactDialog() {
             </Link>
           </ul>
         </div>
-        <DialogFooter>
-          <Button>Ok !</Button>
-        </DialogFooter>
       </DialogContent>
     </Dialog>
   );
