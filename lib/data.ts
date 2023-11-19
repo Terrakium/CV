@@ -6,9 +6,9 @@ const profileData = {
 };
 
 const skillsData = {
-  programmingLanguages: ["JavaScript", "TypeScript", "Bash", "Python"],
-  frameworksAndLibraries: ["Next.js", "React.js", "Google Apps Script"],
-  databases: ["MySQL", "PostgreSQL", "MongoDB"],
+  programmingLanguages: ["JavaScript", "TypeScript", "Bash", "Python (notions de base)"],
+  frameworksAndLibraries: ["Next.js", "React.js", "TailwindCSS", "Zod", "tRPC", "Google Apps Script"],
+  databases: ["SQL", "MySQL", "PostgreSQL", "MongoDB (notions de base)"],
 };
 
 const experienceData = [
@@ -16,7 +16,7 @@ const experienceData = [
     title: "Consultant Google Workspace | Numericoach",
     date: "2022 - Maintenant",
     description:
-      "Expert Google Apps Script, Google Cloud et outils Google Administrator. Prestation de services pour des clients de tous secteurs d'activité. Formations et développement sur mesure.",
+      "Expert Google Workspace, Apps Script, Google Cloud et outils Google Administrator. Prestation de services pour des clients de tous secteurs d'activité. Formations et développement sur mesure.",
   },
   {
     title:
