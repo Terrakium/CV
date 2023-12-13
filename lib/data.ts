@@ -16,7 +16,7 @@ const experienceData = [
     title: "Consultant Google Workspace | Numericoach",
     date: "2022 - Maintenant",
     description:
-      "Expert Google Workspace, Apps Script, Google Cloud et outils Google Administrator. Prestation de services pour des clients de tous secteurs d'activité. Formations et développement sur mesure.",
+      "Expert Google Workspace, Apps Script, Google Cloud et outils Google Administrator. Prestation de services pour des clients de tous secteurs d'activité. Formations et développement sur mesure. Certifié Google Workspace Administrator & ChromeOS Administrator.",
   },
   {
     title:
