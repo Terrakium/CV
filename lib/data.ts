@@ -6,17 +6,17 @@ const profileData = {
 };
 
 const skillsData = {
-  programmingLanguages: ["JavaScript", "TypeScript", "Bash", "Python (notions de base)"],
-  frameworksAndLibraries: ["Next.js", "React.js", "TailwindCSS", "Zod", "tRPC", "Google Apps Script"],
-  databases: ["SQL", "MySQL", "PostgreSQL", "MongoDB (notions de base)"],
+  programmingLanguages: ["JavaScript", "TypeScript", "Bash", "Python"],
+  frameworksAndLibraries: ["Next.js", "React.js", "TailwindCSS", "Zod", "tRPC", "Google APIs", "Terraform", "Docker", "Kubernetes"],
+  databases: ["SQL", "MySQL", "PostgreSQL", "MongoDB", "Redis"],
 };
 
 const experienceData = [
   {
-    title: "Consultant Google Workspace | Numericoach",
+    title: "Consultant Google | Numericoach",
     date: "2022 - Maintenant",
     description:
-      "Expert Google Workspace, Apps Script, Google Cloud et outils Google Administrator. Prestation de services pour des clients de tous secteurs d'activité. Formations et développement sur mesure. Certifié Google Workspace Administrator, ChromeOS Administrator & Associate Cloud Engineer.",
+      "Expert Google Workspace, Apps Script, Google Cloud et outils Google Administrator. Prestation de services pour des clients de tous secteurs d'activité. Formations et développement sur mesure. Certifié Professional Google Workspace Administrator, Professional ChromeOS Administrator, Professional Cloud Developer & Associate Cloud Engineer.",
   },
   {
     title:
